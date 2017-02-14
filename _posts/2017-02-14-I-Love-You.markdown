@@ -3,7 +3,8 @@ layout: post
 title:  "I Love You"
 date:   2017-02-14
 tags: featured
-image: /assets/article_images/mask.jpg
+image: /assets/article_images/cc.jpg
+image2: /assets/article_images/cc.jpg
 ---
 
 Dear Carleen,  
