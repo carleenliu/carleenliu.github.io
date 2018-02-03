@@ -29,7 +29,7 @@ Eating disorders are:
 **Key finding #1**: There is a lack of centralized data, resources, and leadership in the eating disorders world.
 
 ### Survey 
-> To better understand the needs of our client's constuients, we surveyed individuals, families & professionals about:
+> To better understand the needs of our client's constituents, we surveyed individuals, families & professionals about:
 - Current programs 
 - National conference
 - Local engagement
