@@ -37,7 +37,7 @@ partners (McAuliffe and Dunham, 2016). We tend to like ingroup members, and also
 more from ingroup members. These two features of ingroup bias in cooperation tend to
 complement each other until punishment comes into the picture. </p>
 
-<p> Are we more likely to punish ingroup members or outgroup members for not cooperating with us? Read more about how over 500 players from different political groups behaved in my modified Ultimatum game. </p>
+<p> Are we more likely to punish ingroup members or outgroup members for not cooperating with us? Read more about how over 500 players from different political groups behaved in my modified economics game. </p>
 <ul class="actions">
 <li><a href="https://cogsci.yale.edu/sites/default/files/files/Thesis2016Liu.pdf/" class="button">Read more</a></li>
 </ul>
