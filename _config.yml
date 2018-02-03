@@ -1,65 +1,32 @@
-permalink: /:title.html
-
-# Build settings
-gems:
-  - jemoji
-  - jekyll-paginate
-
-# Site settings
-title: "Carleen Liu"
-description: > # this means to ignore newlines until "email:"
+# site settings
+title: CYL
+subtitle: UX Researcher. Non-profit Consultant. Writer.
+email: mailto:liu.carleen@gmail.com
+description: I'm interested in UX, behavioral economics, and social cognition. <br /> You can find my work and writing here.
+baseurl: # the subpath of your site, e.g. /blog
+url: "carleenyliu.com" # the base hostname & protocol for your site
+author: Carleen
 
 
-email: carleenliu@yale.edu
-#blog logo
-logo: "/assets/images/author.jpg"
-float_logo: false # true, false (default)
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 4
 
-# blog cover
-cover: "/assets/images/tea_rain.jpg"
-blog-logo: "/assets/images/author.png"
-name: 'Carleen Liu'
-author: 'Carleen Liu'
-author_image: "/assets/images/favicon.png"
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/carleenliu
+gitlab_url: 
+googleplus_url:
+instagram_url: 
+linkedin_url: https://www.linkedin.com/in/carleenliu/
+pinterest_url:
+slack_url:
+twitter_url: 
 
-paginate:	5
+# build settings
+markdown: kramdown
+incremental: BOOL
 
-url: "http://carleenyliu.com" # the base hostname & protocol for your site
-baseurl: ""
-#used to display twitter cards
-twitter_handle: ''
-
-#fill in disqus shortname to use disqus
-#disqus: disqus-shortname
-
-#google_analytics: UA-XXXXX-X
-
-# social icons and sharing options
-social:
-  # - icon:	twitter
-  #   url:	https://twitter.com/
-  #   desc: Follow me on twitter
-  #   share_url: http://twitter.com/share
-  #   share_title: ?text=
-  #   share_link: "&amp;url="
-
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
-
-  # - icon:	github
-  #   url:	https://github.com/carleenliu
-  #   desc:	Fork me on github
-  #   share_url:
-  #   share_title:
-  #   share_link:
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+sass:
+  style: compressed
