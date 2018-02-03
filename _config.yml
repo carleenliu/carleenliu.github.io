@@ -4,7 +4,7 @@ subtitle: UX Researcher. Non-profit Consultant. Writer.
 email: mailto:liu.carleen@gmail.com
 description: I'm interested in UX, behavioral economics, and social cognition. <br /> You can find my work and writing here.
 baseurl: # the subpath of your site, e.g. /blog
-url: "carleenyliu.com" # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 author: Carleen
 
 
