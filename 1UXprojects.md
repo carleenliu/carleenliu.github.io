@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: UX & Cognitive Research
 landing-title: 'UX & Cognitive Research'
 nav-menu: true
