@@ -22,9 +22,9 @@ In the United States, 20 million women and 10 million men suffer from an eating 
 
 Eating disorders are: 
 
-<img src="assets/images/EDtriad1.png">
-<img src="assets/images/EDtriad2.png">
-<img src="assets/images/EDtriad3.png">
+<img src="assets/images/EDtriad1.PNG">
+<img src="assets/images/EDtriad2.PNG">
+<img src="assets/images/EDtriad3.PNG">
 
 **Key finding #1**: There is a lack of centralized data, resources, and leadership in the eating disorders world.
 
