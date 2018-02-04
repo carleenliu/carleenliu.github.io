@@ -49,7 +49,7 @@ nav-menu: true
 				</header>
 				<p>In the United States, 20 million women and 10 million men suffer from an eating disorder at some time in their life. Our client is an eating disorders organization that wants to better serve all people affected by eating disorders and be a proactive leader in the field. My team was tasked with designing programmatic and organizational strategy for our client’s next five years.</p>
 				<ul class="actions">
-					<li><a href="ED.html" class="button">Learn more</a></li>
+					<li><a href="eatingdisorders.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
