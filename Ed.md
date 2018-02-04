@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eating Disorders  Services for Underserved Populations
+title: Eating Disorders Services for Underserved Populations
 description: 
 image: assets/images/medical.jpeg
 nav-menu: false
