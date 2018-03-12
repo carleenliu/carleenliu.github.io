@@ -60,7 +60,7 @@ I designed a ten-minute artist survey that consisted of both closed and open-end
 **Key instight #4:** Black artists, hip hop artists, and female artists have similar goals as the rest of the artists, but face significant barriers to accessing opportunities to perform and connecting to the music community.
 
 ## Design Principles 
-> These design principles are based on organizational values.
+> These design principes mirror the organization's values.
 - **Our house is your house.**
 As a non-profit, this organization belongs to everyone. It’s a legal reality and a cultural imperative.
 - **Popular music is art.**
@@ -85,10 +85,12 @@ Given what artists' vision of what Boston's music scene could be and artists' go
 ### Logic Model
 <img src="assets/images/logicmodel.png" style="width: 800px;"/>
 
-We facilitated a discussion of research findings and tested program ideas with a diverse group of the organization's stakeholders, including Boston artists of color, hip hop artists, female artists, queer artists, music tech leaders, venue owners.
+We facilitated a discussion of research findings and tested program ideas with a diverse group of the organization's stakeholders, including board members, Boston artists of color, hip hop artists, female artists, queer artists, music tech leaders, music fans, and venue owners.
 
-### Proposed Program Mix
+### Testing Program Mix
 <img src="assets/images/Programmix2.png" style="width: 800px;"/>
-<br> *Bolded programs already exist.*
+<br> *Bolded programs are already in place.*
 
-The working prototype of the program mix is one where there is 1) affordable recording and rehearsal space for all artists and 2) an artist accelerator program to support artists who are focused on making music their career.
+The working prototype of the program mix is one where there is:
+1. **affordable recording and rehearsal space** for all artists  
+2. an **artist accelerator program** to provide targed support for career artists
