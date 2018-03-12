@@ -28,7 +28,7 @@ The parishioner survey and staff self-evaluation were based on the client’s es
 - Finances
 - Facilities
 
-## Design Principles
+## Design Principles for Database
 1.	Indicators of parish health mirror the client’s Criteria for a Vibrant Parish
 2.	Usable for umbrella organization to **compare parishes at a macro level** and usable for parishes to **improve at an individual level**
 3.	Usable for older population that is **less familiar with technology**
