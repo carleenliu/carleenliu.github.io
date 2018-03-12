@@ -51,10 +51,9 @@ Eating disorders are:
 
 
 ## Design Principles
-1.	Services should be **accessible to all** people affected by eating disorders across the US
+1.	Services are **accessible to all** people affected by eating disorders across the US
 2.	Impactful prevention and treatment **research** is catalyzed and disseminated
-3.  Organizational structure encourages **broader demographic representation** among staff and **defined roles**, and **integrates scientific knowledge** into advisory bodies
-
+3.  Organizational structure encourages **broader demographic representation** among staff, provides **defined roles and responsibilites**, and **integrates scientific knowledge** into advisory bodies
 
 ## Prototyping and Testing
 
