@@ -38,17 +38,22 @@ Eating disorders are:
 
 <img src="assets/images/EDsurvey1.png" style="width: 800px;"/>
 
-**Key finding #2**: While our client has been successful in reaching some demographics, it can expand its reach across age, race, gender, and socioeconomic status.
+**Key finding #2**: While our client has been successful in reaching young white women under the age of 35, it can expand its reach across age, race, gender, and socioeconomic status.
+
+## Interviews with Organization's Staff
+
+**Key finding #3**:
 
 ## Design Principles
 1.	Make services accessible to all people affected by eating disorders across the US<br>
-    - *Design services for and expand reach to underserved populations*
 2.	Catalyze and disseminate impactful research on prevention and treatment
 
 ## Prototyping and Testing
 
 ### Financial Model 
-We tested the financial impact of different scenarios in local engagement, partnerships, conference structure, and research funding.
+We tested the financial impact of different scenarios in conference structure, research graning, local engagement, and partnerships.
 
 ## Outcomes
-*In progress… to come!*
+My team conducted research and facilitated meetings with the Strategic Planning Committee and subcommittees to examine and set the strategy for the organization’s annual conference, research granting, local engagement and partnerships, advocacy efforts and governance. We also worked closely with senior leadership to inform development and financial strategy, as well as organizational structure and hiring of key staff. 
+
+The organization is now focusing on designing services for and expanding reach to underserved populations.

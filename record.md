@@ -44,6 +44,10 @@ I designed a ten-minute artist survey that consisted of both closed and open-end
 <img src="assets/images/musicsurvey3.png" style="width: 800px;"/>
 <img src="assets/images/musicsurvey4.png" style="width: 800px;"/>
 
+**Artist Vision for Boston's Music Scene**
+
+<img src="assets/images/artistvision.png" style="width: 800px;"/>
+
 **Artist Goals & Barriers**
 > Our initial hypothesis was that making a living from music was a marker of success for artists. However, survey results and qualitative interview responses showed that this was not artists’ top priority.
 
@@ -53,10 +57,31 @@ I designed a ten-minute artist survey that consisted of both closed and open-end
 
 **Key insight #3:** While affordability is the primary barrier for most artists, making an income from music is not a primary goal for most artists. The primary goal is growth and progression as an artist.
 
-## Design Principles
-- All people should have access to making music.
-- Music as a means of self-actualization.
-- Nonprofits should not price existing music jobs out of the market.
+**Key instight #4:** Black artists, hip hop artists, and female artists have similar goals as the rest of the artists, but face significant barriers to accessing opportunities to perform and connecting to the music community.
+
+## Design Principles and Organizational Values
+-*Our house is your house.* 
+As a non-profit, this organization belongs to everyone. It’s a legal reality and a cultural imperative.
+-*Popular music is art.* 
+Popular music is a legitimate artform through which artists contribute to human creative expression. 
+-*Artists are workers.* 
+Artists’ labor should be fairly compensated.
+-*You made it, you own it.*
+Intellectual property should be owned by its creators. 
+-*Creativity for all.* 
+All people should have access to making music, regardless of gender, race, class, sexuality, or status. 
+-*Artists make cities better.* 
+Artists build bridges between communities, drive creative economies, and make their cities a more desirable place to live and work.
+-*Real functioning economy.*
+This organizations operates as an entrepreneurial nonprofit within a largely commercial music industry, and invests philanthropic capital to make the industry function better. 
+-*No heroes, no assholes.*
+A collaborative music community thrives only in an environment of mutual trust and respect. 
 
 ## Prototyping and Testing
-*In progress… to come!*
+Given what artists' vision of what Boston's music scene could be, my team created a logic model for the organization.
+
+<img src="assets/images/logicmodel.png" style="width: 800px;"/>
+
+We facilitated a discussion of research findings and tested program ideas with a diverse group of the organization's stakeholders, including Boston artists of color, hip hop artists, female artists, queer artists, music tech leaders, venue owners.
+
+<img src="assets/images/programmix.png" style="width: 800px;"/>
