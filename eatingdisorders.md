@@ -42,7 +42,10 @@ Eating disorders are:
 
 ## Interviews with Organization's Staff
 
-**Key finding #3**:
+>To understand how the current governance and organizational struture is working, my team interviewed staff, board, and committee members.
+
+**Key finding #3**: Interviewees expressed desire for greater clarity on roles, responsibilities and ethics. They also wanted more consistent communication across committees.
+
 
 ## Design Principles
 1.	Make services accessible to all people affected by eating disorders across the US<br>
@@ -52,6 +55,9 @@ Eating disorders are:
 
 ### Financial Model 
 We tested the financial impact of different scenarios in conference structure, research graning, local engagement, and partnerships.
+
+### Governance Structure
+<img src="assets/images/Governance.png" style="width: 800px;"/>
 
 ## Outcomes
 My team conducted research and facilitated meetings with the Strategic Planning Committee and subcommittees to examine and set the strategy for the organization’s annual conference, research granting, local engagement and partnerships, advocacy efforts and governance. We also worked closely with senior leadership to inform development and financial strategy, as well as organizational structure and hiring of key staff. 
