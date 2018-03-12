@@ -61,17 +61,17 @@ I designed a ten-minute artist survey that consisted of both closed and open-end
 
 ## Design Principles 
 > These design principles are based on organizational values.
-- *Our house is your house.*
+- **Our house is your house.**
 As a non-profit, this organization belongs to everyone. It’s a legal reality and a cultural imperative.
-- *Popular music is art.* 
+- **Popular music is art.**
 Popular music is a legitimate artform through which artists contribute to human creative expression. 
-- *Artists are workers.* 
+- **Artists are workers.**
 Artists’ labor should be fairly compensated.
-- *You made it, you own it.*
+- **You made it, you own it.**
 Intellectual property should be owned by its creators. 
-- *Creativity for all.* 
+- **Creativity for all.**
 All people should have access to making music, regardless of gender, race, class, sexuality, or status. 
-- *Artists make cities better.* 
+- **Artists make cities better.** 
 Artists build bridges between communities, drive creative economies, and make their cities a more desirable place to live and work.
 - *Real functioning economy.*
 This organizations operates as an entrepreneurial nonprofit within a largely commercial music industry, and invests philanthropic capital to make the industry function better. 
@@ -80,13 +80,15 @@ A collaborative music community thrives only in an environment of mutual trust a
 
 
 ## Prototyping and Testing
-Given what artists' vision of what Boston's music scene could be, my team created a logic model for the organization.
+Given what artists' vision of what Boston's music scene could be and artists' goals and barriers, my team created a logic model for the organization.
 
+**Logic Model**
 <img src="assets/images/logicmodel.png" style="width: 800px;"/>
 
 We facilitated a discussion of research findings and tested program ideas with a diverse group of the organization's stakeholders, including Boston artists of color, hip hop artists, female artists, queer artists, music tech leaders, venue owners.
 
+**Proposed Program Mix**
 <img src="assets/images/Programmix2.png" style="width: 800px;"/>
-*Bolded programs already exist.*
+<br> *Bolded programs already exist.*
 
 The working prototype of service mix is one where there is 1) affordable recording and rehearsal space for all artists and 2) an artist accelerator program for artists who are focused on making music their career.
