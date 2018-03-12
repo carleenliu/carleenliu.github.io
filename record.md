@@ -46,7 +46,7 @@ I designed a ten-minute artist survey that consisted of both closed and open-end
 
 **Artist Vision for Boston's Music Scene**
 
-<img src="assets/images/artistvision.png" style="width: 800px;"/>
+<img src="assets/images/Artistvision.png" style="width: 800px;"/>
 
 **Artist Goals & Barriers**
 > Our initial hypothesis was that making a living from music was a marker of success for artists. However, survey results and qualitative interview responses showed that this was not artists’ top priority.
@@ -60,6 +60,7 @@ I designed a ten-minute artist survey that consisted of both closed and open-end
 **Key instight #4:** Black artists, hip hop artists, and female artists have similar goals as the rest of the artists, but face significant barriers to accessing opportunities to perform and connecting to the music community.
 
 ## Design Principles and Organizational Values
+<ul>
 -*Our house is your house.* 
 As a non-profit, this organization belongs to everyone. It’s a legal reality and a cultural imperative.
 -*Popular music is art.* 
@@ -76,6 +77,7 @@ Artists build bridges between communities, drive creative economies, and make th
 This organizations operates as an entrepreneurial nonprofit within a largely commercial music industry, and invests philanthropic capital to make the industry function better. 
 -*No heroes, no assholes.*
 A collaborative music community thrives only in an environment of mutual trust and respect. 
+</ul>
 
 ## Prototyping and Testing
 Given what artists' vision of what Boston's music scene could be, my team created a logic model for the organization.
@@ -84,4 +86,4 @@ Given what artists' vision of what Boston's music scene could be, my team create
 
 We facilitated a discussion of research findings and tested program ideas with a diverse group of the organization's stakeholders, including Boston artists of color, hip hop artists, female artists, queer artists, music tech leaders, venue owners.
 
-<img src="assets/images/programmix.png" style="width: 800px;"/>
+<img src="assets/images/Programmix2.png" style="width: 800px;"/>
