@@ -94,7 +94,7 @@ author: null
 <section id="four" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="https://scontent.fbed1-1.fna.fbcdn.net/v/t1.0-9/11949477_878530068907899_6614597386854574282_n.png?oh=0430e57a17672ea6af74aa6e579ea7a9&oe=5AC4788D" alt="" data-position="center center" />
+			<img src="assets/images/teeth.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">

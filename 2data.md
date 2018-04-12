@@ -23,7 +23,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="record.html" class="image">
 			<img src="assets/images/Musician.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -39,8 +39,8 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/EDphoto.jpg" style="width: 400px;" alt="" data-position="top center"/>
+		<a href="eatingdisorders.html" class="image">
+			<img src="assets/images/EDphoto.jpg" tyle="width: 425px;" alt="" data-position="center center"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -55,7 +55,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="catholic.html" class="image">
 			<img src="assets/images/catholic.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
