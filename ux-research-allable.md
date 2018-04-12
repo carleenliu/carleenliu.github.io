@@ -11,15 +11,15 @@ nav-menu: false
 <div class="video-container"><iframe width="854" height="480" src="https://www.youtube.com/embed/2NeBDJQnj5U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 <a class="image">
-    <img src="assets/images/allableboard.jpg" style='width:100%;' border="0;" alt="" data-position="center center" />
+    <img src="assets/images/allableboard.JPG" style='width:100%;' border="0;" alt="" data-position="center center" />
 </a>
 
 <a class="image">
-    <img src="assets/images/allablewireframe.jpg" style='width:100%;' border="0;" alt="" data-position="center center" />
+    <img src="assets/images/allablewireframe.JPG" style='width:100%;' border="0;" alt="" data-position="center center" />
 </a>
 
 <a class="image">
-    <img src="assets/images/allableteam.jpg" style='width:100%;' border="0;" alt="" data-position="center center" />
+    <img src="assets/images/allableteam.JPG" style='width:100%;' border="0;" alt="" data-position="center center" />
 </a>
 
 Shout out to Fahad Punjwani and Lara Ortiz-Luis from the MIT Hack for Inclusion team for creating some great design thinking resources! If you'd like to use them for your own hacks for inclusion at your organization, check it out here.
