@@ -8,7 +8,7 @@ nav-menu: false
 
 <p>This project was created with my team at Computer Measurement Group's NeedforSpeed health hackathon. We won Best UX Pitch and Best Solution for Population and Patient Engagement. I came up with the idea, facilitated our ideation session, conducted a user interview over the phone with a nursing home nurse, partnered with our UI designer to create low fidelity wireframes, made the presentation and pitched our project.</p>
 
-<iframe src='https://onedrive.live.com/embed?cid=C0E8ACDB8A819984&resid=C0E8ACDB8A819984%21111&authkey=APIi0-garEbAHSc&em=2&wdAr=1.3333333333333333' width='1012px' height='600px' frameborder='0'>This is an embedded <a target='_blank' href='https://office.com'>Microsoft Office</a> presentation, powered by <a target='_blank' href='https://office.com/webapps'>Office Online</a>.</iframe>
+<div class="slide-container"><iframe src='https://onedrive.live.com/embed?cid=C0E8ACDB8A819984&resid=C0E8ACDB8A819984%21111&authkey=APIi0-garEbAHSc&em=2&wdAr=1.3333333333333333' width='722px' height='565px' frameborder='0'>This is an embedded <a target='_blank' href='https://office.com'>Microsoft Office</a> presentation, powered by <a target='_blank' href='https://office.com/webapps'>Office Online</a>.</iframe></div>
 
 <a class="image">
     <img src="assets/images/nursebadgesketch.JPG" style='width:100%;' border="0;" alt="" data-rotate="270" data-position="center center" />
