@@ -38,17 +38,32 @@ Eating disorders are:
 
 <img src="assets/images/EDsurvey1.png" style="width: 800px;"/>
 
-**Key finding #2**: While our client has been successful in reaching some demographics, it can expand its reach across age, race, gender, and socioeconomic status.
+**Key finding #2**: While our client has been successful in reaching young white women under the age of 35, it can expand its reach across age, race, gender, and socioeconomic status.
+
+## Interviews with Organization's Staff
+
+>To understand how the current governance and organizational struture is working, my team interviewed 
+- Staff
+- Board members
+- Committee members
+
+**Key finding #3**: Interviewees expressed desire for greater clarity on roles, responsibilities and ethics. They also wanted more consistent communication across committees.
+
 
 ## Design Principles
-1.	Make services accessible to all people affected by eating disorders across the US<br>
-    - *Design services for and expand reach to underserved populations*
-2.	Catalyze and disseminate impactful research on prevention and treatment
+1.	Services are **accessible to all** people affected by eating disorders across the US
+2.	Impactful prevention and treatment **research** is catalyzed and disseminated
+3.  Organizational structure encourages **broader demographic representation** among staff, provides **defined roles and responsibilites**, and **integrates scientific knowledge** into advisory bodies
 
 ## Prototyping and Testing
 
-### Financial Model 
-We tested the financial impact of different scenarios in local engagement, partnerships, conference structure, and research funding.
+### Financial Model to Test Scenarios
+We tested the financial impact of different scenarios in conference structure, research graning, local engagement, and partnerships.
+
+### Redesigned Governance Structure
+<img src="assets/images/Governance.png" style="width: 800px;"/>
 
 ## Outcomes
-*In progress… to come!*
+My team conducted research and facilitated meetings with the Strategic Planning Committee and subcommittees to examine and set the strategy for the organization’s annual conference, research granting, local engagement and partnerships, advocacy efforts and governance. 
+
+We worked closely with senior leadership to inform development and financial strategy, as well as organizational structure and hiring of key staff. The organization is now focusing on designing services for and expanding reach to underserved populations.

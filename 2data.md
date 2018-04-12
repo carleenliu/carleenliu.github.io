@@ -2,7 +2,7 @@
 layout: landing
 title: Strategic Planning for Non-Profit Organizations
 landing-title: 'Strategic Planning for Non-Profit Organizations'
-description: 'research to inform decisions and drive change'
+description: 'research & design to inform decisions and drive change'
 image: assets/images/nonprofit.png
 nav-menu: true
 ---
