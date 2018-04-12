@@ -25,9 +25,9 @@ nav-menu: false
 Shout out to Fahad Punjwani and Lara Ortiz-Luis from the MIT Hack for Inclusion team for creating some great design thinking resources! If you'd like to use them for your own hacks for inclusion at your organization, check it out here.
 
 <ul class="actions">
-	<li><a href="https://drive.google.com/file/d/0B-XA0IN93ZilbVVDX3p2TGtCUDQ5OWNHbjNDamlJLU9aalNr/view?usp=sharing" class="button"> Design Thinking Resource - Day 1 </a></li>
+	<li><a href="https://drive.google.com/file/d/0B-XA0IN93ZilbVVDX3p2TGtCUDQ5OWNHbjNDamlJLU9aalNr/view?usp=sharing" class="button"> Design Thinking - Day 1 </a></li>
 </ul>
 
 <ul class="actions">
-	<li><a href="https://drive.google.com/file/d/0B-XA0IN93ZilZklQMTh0OUpsNDdqQWVSTjM4MlZqT1Vsb3BZ/view?usp=sharing" class="button"> Design Thinking Resource - Day 2 </a></li>
+	<li><a href="https://drive.google.com/file/d/0B-XA0IN93ZilZklQMTh0OUpsNDdqQWVSTjM4MlZqT1Vsb3BZ/view?usp=sharing" class="button"> Design Thinking - Day 2 </a></li>
 </ul>
