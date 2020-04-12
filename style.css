@@ -63,3 +63,22 @@ hr {
 footer {
   margin-top: 10%;
 }
+
+.rhlink:hover { 
+  color: #21ce99; 
+  /* text-decoration: underline; */
+}
+
+.cvslink:hover {
+  color: #DA1A00;
+}
+
+.snacklink:hover {
+  color: #2fc3ff;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+
+}
