@@ -1,0 +1,65 @@
+#grid {
+  display: inline-grid;
+  width: 100%;
+  grid-template-columns: 1fr 2fr 1fr;
+}
+
+#centered {
+  text-align: center;
+}
+
+#gray h1, #gray h2, #gray p{
+  color: black;
+  font-size: 1.25em;
+}
+
+.graysection {
+  margin-top: 5%;
+}
+
+
+h1 {
+  font-size: 2.75em;
+  font-family: 'Playfair Display', serif;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  font-style: italic;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5em;
+  font-weight: 500;
+  margin: 0;
+}
+
+p {
+  font-size: 1.5em;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  margin-top: 0;
+  margin-bottom: 2%;
+
+}
+
+p.second {
+  font-size: 1.2em;
+  font-family: 'Playfair Display', serif;
+  margin-bottom: 5%;
+  font-style: italic;
+}
+
+img {
+  margin-top: 5%;
+  width: 250px;
+}
+
+hr {
+  margin-top: 10%;
+  color:lightgray;
+  opacity: 20%;
+}
+
+footer {
+  margin-top: 10%;
+}
