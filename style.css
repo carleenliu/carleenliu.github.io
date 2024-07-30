@@ -69,6 +69,11 @@ footer {
   /* text-decoration: underline; */
 }
 
+.asanalink:hover { 
+  color: #f06a6a; 
+  /* text-decoration: underline; */
+}
+
 .cvslink:hover {
   color: #DA1A00;
 }
